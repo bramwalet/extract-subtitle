@@ -51,5 +51,3 @@ elif [ -f "$1" ]; then
 else
         process_dir "$1"
 fi
-
-bram@hpmicro:~$
